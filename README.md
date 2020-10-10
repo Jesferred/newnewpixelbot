@@ -47,6 +47,7 @@
 **9)** Вставить туда 2 фильтра
 <br />
  https://\*.pages.vk-apps.com/static/js/main\*
+<br />
 https://pixel.*.vkforms.ru/build/static/js/main*
 <br />
 **10)** Нажать **"сохранить"**
