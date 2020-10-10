@@ -44,7 +44,7 @@
 ![set](https://i.imgur.com/IvANl4u.png)
 <br />
 <br />
-**9)** Вставить туда
+**9)** Вставить туда 2 фильтра
 <br />
  https://\*.pages.vk-apps.com/static/js/main\*
 https://pixel.*.vkforms.ru/build/static/js/main*
