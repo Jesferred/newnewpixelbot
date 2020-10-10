@@ -23,7 +23,7 @@
 **2)** Установить расширение для браузера ([*AdBlock*](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom/related?hl=ru) для **Chrome, Yandex, Opera**) или ([*AdBlock*](https://addons.mozilla.org/ru/firefox/addon/adblock-for-firefox) для **Mozilla Firefox**)
 <br />
 <br />
-**4)** Установить [*скрипт*](https://github.com/JesferMonkaS/newnewpixelbot/blob/main/distLoader.user.js)
+**4)** Установить [*скрипт*](https://github.com/JesferMonkaS/newnewpixelbot/raw/main/distLoader.user.js)
 <br />
 <br />
 **5)** Нажать на **адблок**
@@ -64,7 +64,7 @@
 **2)** Установить расширение для браузера [*ViolentMonkey*](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
 <br />
 <br />
-**3)** Установить этот [*скрипт*](https://github.com/JesferMonkaS/newnewpixelbot/blob/main/distLoader.user.js)
+**3)** Установить этот [*скрипт*](https://github.com/JesferMonkaS/newnewpixelbot/raw/main/distLoader.user.js)
 <br />
 <br />
 **4)** Установить [*AdBlock*](https://addons.mozilla.org/ru/firefox/addon/adblock-for-firefox/)
