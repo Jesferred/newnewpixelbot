@@ -4,7 +4,7 @@
 // @version      1.4
 // @description  Unity is the way to victory
 // @author       gorox and friends
-// @match        https://*.pages.vk-apps.com/*
+// @match        https://*.vk-apps.com/*
 // @match        https://pixel.*.vkforms.ru/
 // @connect      github.com
 // @connect      raw.githubusercontent.com
