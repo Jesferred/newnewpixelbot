@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Pixelbattle Placer
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.4
 // @description  Unity is the way to victory
 // @author       gorox and friends
 // @match        https://*.pages.vk-apps.com/*
