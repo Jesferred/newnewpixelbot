@@ -6,11 +6,11 @@
 
 <h1 align="center">Инструкция по установке New PixelBattle Bot</h1>
     <h3 align="center">
-        <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">У меня больше одного аккаунта</a>
+        <a href="https://t.me/joinchat/PBlEw0jDq4tb0_-nd4IYtw">У меня больше одного аккаунта</a>
         ·
-        <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">Баг репорт</a>
+        <a href="https://t.me/joinchat/PBlEw0jDq4tb0_-nd4IYtw">Баг репорт</a>
         ·
-        <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">Информация по боту</a>
+        <a href="https://t.me/joinchat/PBlEw0jDq4tb0_-nd4IYtw">Информация по боту</a>
     </h3>
 </p>
     <br />
