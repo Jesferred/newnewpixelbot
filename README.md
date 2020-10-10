@@ -46,8 +46,7 @@
 <br />
 **9)** Вставить туда
 <br />
- *https://*.pages.vk-apps.com/static/js/main* перед .pages воткните звездочку (ОБАЗАТЕЛЬНО!)
-<br />
+ *https://\*.pages.vk-apps.com/static/js/main\*
 <br />
 **10)** Нажать **"сохранить"**
 <br />
