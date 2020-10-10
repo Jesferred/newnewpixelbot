@@ -1,2 +1,0 @@
-# newnewpixelbot
-снова ебашить
