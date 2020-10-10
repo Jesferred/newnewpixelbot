@@ -48,7 +48,6 @@
 <br />
 
 https://\*.vk-apps.com/static/js/main*
-
 <br />
 https://pixel.*.vkforms.ru/build/static/js/main*
 <br />
