@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Pixelbattle Placer
 // @namespace    http://tampermonkey.net/
-// @version      1.6
+// @version      1.6.1
 // @description  Unity is the way to victory
 // @author       gorox and friends
-// @match        https://*.pages.vk-apps.com/*
-// @match        https://pixel.w84.vkforms.ru/build/*
+// @match        https://*.vk-apps.com/*
+// @match        https://pixel.*.vkforms.ru/*
 // @connect      github.com
 // @connect      raw.githubusercontent.com
 // @updateURL    https://github.com/JesferMonkaS/newnewpixelbot/raw/main/distLoader.user.js
