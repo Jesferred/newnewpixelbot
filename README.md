@@ -60,16 +60,16 @@ https://pixel.*.vkforms.ru/build/static/js/main*
 **12)** Отдыхать
 
 ## Установка Android
-**1)** Скачать браузер [*Firefox*](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
+**1)** Скачать браузер [*Kiwi*](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=ru)
 <br />
 <br />
-**2)** Установить расширение для браузера [*ViolentMonkey*](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
+**2)** Установить расширение для браузера [*TamperMonkey*](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 <br />
 <br />
 **3)** Установить этот [*скрипт*](https://github.com/JesferMonkaS/newnewpixelbot/raw/main/distLoader.user.js)
 <br />
 <br />
-**4)** Установить [*AdBlock*](https://addons.mozilla.org/ru/firefox/addon/adblock-for-firefox/)
+**4)** Установить [*AdBlock*](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom/related?hl=ru)
 <br />
 <br />
 **5)** Вставить **фильтр** из инструкции для ПК (три точки - AdBlock - шестерёнка - три полоски - настроить)
