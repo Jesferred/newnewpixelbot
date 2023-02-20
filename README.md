@@ -1,6 +1,8 @@
 <br />
+на картинку *тык*
+<br />
 <p align="center">
-    <a href="https://t.me/joinchat/FrQ5XkjDq4uUxcOYskHGXg">
+    <a href="https://t.me/pixel_2ch">
     <img src="https://gistcdn.githack.com/dvachevskaya/4dc06d33f3ba58dd60fe05b90f2a787c/raw/4f8fa5e7cb03e888f1ffb9b4568a43979681d8ae/3rdc.svg" alt="Logo" width="200" height="200">
 </a>
 
@@ -39,10 +41,9 @@
 <br />
 **9)** Вставить туда 2 фильтра
 <br />
-
-https://\*.vk-apps.com/static/js/main*
+example.com
 <br />
-https://pixel.*.vkforms.ru/build/static/js/main*
+example.com
 <br />
 **10)** Нажать **"сохранить"**
 <br />
