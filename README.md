@@ -1,5 +1,4 @@
-<br />
-на картинку *тык*
+
 <br />
 <p align="center">
     <a href="https://t.me/pixel_2ch">
